@@ -1,3 +1,4 @@
+![logo](https://github.com/Lakshay-Katyal/Lakshay-Katyal/blob/main/Github%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Lakshay Katyal</h1>
 <h3 align="center">A passionate Data Scientist from India. Extracting information from data which you didn't know existed.</h3>
 
