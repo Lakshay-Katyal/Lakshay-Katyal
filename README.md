@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshay-katyal&label=Profile%20views&color=0e75b6&style=flat" alt="lakshay-katyal" /> </p>
 
-- 👨‍💻 Some of my projects are available at [https://github.com/Lakshay-Katyal](https://github.com/Lakshay-Katyal)
+- 👨‍💻 Some of my projects are available at **[https://github.com/Lakshay-Katyal](https://github.com/Lakshay-Katyal?tab=repositories)**
 
 - 📫 How to reach me **katyallakshay97@gmail.com**
 
